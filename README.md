@@ -1,3 +1,13 @@
+# The link to the app is-->
+https://travel-advisor-sh.netlify.app/
+
+### This project fetches the details of Hotels, Restaurants and Attractions of a particular place(it asks for your location once you open the app) and displays them on a map.
+
+### A third party api called Rapid api is used to fetch the details for the app, We have used travel-advisor api and weather api have been used for the project.
+### Material-ui integrated with react has been used in the project that helps to make the CSS more beautiful and elaborative.
+### Google api has been used to display the map on the web app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
